@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rohit Thole
 - 👀 I’m currently pursuing Master's in Computer Science from NJIT, NJ.
-- 🌱 I’m currently learning front end development.
 - 📫 You can reach me at - tholerohit@gmail.com
 
 <!---
